@@ -36,7 +36,6 @@ The application combines Machine Learning, Natural Language Processing (NLP), an
 |---|---|
 | Python | Core programming language |
 | Machine Learning | News classification |
-| NLP | Text processing and analysis |
 | Pandas | Dataset handling and data manipulation |
 | NumPy | Numerical operations |
 | Scikit-learn | Model training and prediction |
